@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuya Hikima Profile"
+title                    : "Yuya Hikima's Profile"
 title_separator          : "-"
 name                     : &name "Yuya Hikima"
 description              : &description "Worker at NTT Corporation, Ph.D. student at The University of Tokyo"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=R3kw_EQAAAAJ&hl=ja&authuser=1"
-  email            : yuya.hikima [at] gmail.com
+  email            : #yuya.hikima [at] gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
