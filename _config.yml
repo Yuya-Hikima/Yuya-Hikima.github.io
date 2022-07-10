@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuya Hikima / Profile"
+title                    : "Yuya Hikima Profile"
 title_separator          : "-"
 name                     : &name "Yuya Hikima"
 description              : &description "Worker at NTT Corporation, Ph.D. student at The University of Tokyo"
 url                      : https://Yuya-Hikima.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Yuya-Hikima/Yuya-Hikima.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  yuya-hikima.png # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Yuya Hikima"
   avatar           : "yuya-hikima.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Worker at NTT Corporation, Ph.D. student at The University of Tokyo"
   location         : "Japan"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=R3kw_EQAAAAJ&hl=ja&authuser=1"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
