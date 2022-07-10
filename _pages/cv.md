@@ -17,14 +17,10 @@ Education
 
 Work experience
 ======
-* 2018-now: Researcher
+* 2018--now: Researcher
   * NTT Corporation
   * Research field: Optimization
   
 Awards
-======
-1. 
-
-Teaching
 ======
 1. 
