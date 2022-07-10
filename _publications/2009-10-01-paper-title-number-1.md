@@ -10,5 +10,3 @@ citation: 'Yuya Hikima, Yasunori Akagi, Hideaki Kim, Masahiro Kohjima, Takeshi K
 ---
 
 [Download paper here](https://ojs.aaai.org/index.php/AAAI/article/view/16497/16304)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
