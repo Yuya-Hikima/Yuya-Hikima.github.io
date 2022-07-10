@@ -21,3 +21,10 @@ Work experience
   * NTT Corporation
   * Research field: Optimization
   
+Awards
+======
+1. 
+
+Teaching
+======
+1. 
