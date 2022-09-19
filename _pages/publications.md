@@ -13,7 +13,7 @@ author_profile: true
 1. Yuya Hikima, Yasunori Akagi, Hideaki Kim, Masahiro Kohjima, Takeshi Kurashima, and Hiroyuki Toda, "[Integrated Optimization of Bipartite Matching and Its Stochastic Behavior: New Formulation and Approximation Algorithm via Min-cost Flow Optimization](https://ojs.aaai.org/index.php/AAAI/article/view/16497)", Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI 2021), pp.3796-3805, 2021. \[[code](https://github.com/Yuya-Hikima/AAAI-2021-Integrated-Optimization-fot-Bipartite-Matching-and-Its-Stochastic-Behavior)\]
 
 
-# Domestic conference papers
+# Domestic conference papers (non-refereed)
 
 1. 引間 友也, 赤木 康紀, 金　秀明,　幸島 匡宏, 倉島 健, 戸田 浩之,  制御可能な不確実性を含むStochastic Matchingの確率的挙動の最適化, 日本オペレーションズ・リサーチ学会 2021年秋季研究発表会, 2021. 
 
