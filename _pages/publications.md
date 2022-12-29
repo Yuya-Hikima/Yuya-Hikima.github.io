@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 # International conference papers (refereed)
+1. **Yuya Hikima**, Yasunori Akagi, Hideaki Kim, and Taichi Asami, "An Improved Approximation Algorithm for Wage Determination and Online Task Allocation in Crowd-sourcing", Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI 2023), 2023 (in press).
+
 1. **Yuya Hikima**, Yasunori Akagi, Marumo Naoki, and Hideaki Kim, "[Online Matching with Controllable Rewards and Arrival Probabilities](https://www.ijcai.org/proceedings/2022/0254.pdf)", Proceedings of the 31st International Joint Conference on Artificial Intelligence (IJCAI 2022), pp.1825-1833, 2022. \[[code](https://github.com/Yuya-Hikima/IJCAI2022-Online-Matching-with-Controllable-Rewards-and-Arrival-Probabilities)\]
 
 1. **Yuya Hikima**, Masahiro Kohjima, Yasunori Akagi, Takeshi Kurashima, and Hiroyuki Toda, "[Price and Time Optimization for Utility-Aware Taxi Dispatching.](https://link.springer.com/chapter/10.1007/978-3-030-89188-6_28)", Proceedings of the 18th Pacific Rim International Conference on Artificial Intelligence (PRICAI 2021), pp. 370-381, 2021.
