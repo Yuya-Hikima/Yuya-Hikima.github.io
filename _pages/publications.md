@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+# Journal papers (refereed)
+1. **Yuya Hikima**, Yasunori Akagi, Masahiro Kohjima, Takeshi Kurashima, and Hiroyuki Toda, "Price and Time Proposal Optimization for Ride-Hailing Services Based on Individual Utilities", Transactions of the Japanese Society for Artificial Intelligence, Vol.38(1), pp.CC-M13_1-12, 2023.
+
 # International conference papers (refereed)
 1. **Yuya Hikima**, Yasunori Akagi, Hideaki Kim, and Taichi Asami, "An Improved Approximation Algorithm for Wage Determination and Online Task Allocation in Crowd-sourcing", Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI 2023), 2023 (in press).
 
