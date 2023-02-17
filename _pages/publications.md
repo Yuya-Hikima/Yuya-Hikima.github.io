@@ -6,12 +6,12 @@ author_profile: true
 ---
 
 # Journal papers (refereed)
-1. **Yuya Hikima**, Nobuo Yamashita, "A dual active set method for l1-regularized problem", Journal of Industrial and Management Optimization, 2023 (in press). \[[code](https://github.com/Yuya-Hikima/AAAI2023-An-Improved-Approximation-Algorithm-for-Wage-Determination-and-Online-Task-Allocation)\]
+1. **Yuya Hikima**, Nobuo Yamashita, "A dual active set method for l1-regularized problem", Journal of Industrial and Management Optimization, 2023 (in press). 
 
 1. **Yuya Hikima**, Yasunori Akagi, Masahiro Kohjima, Takeshi Kurashima, and Hiroyuki Toda, "[Price and Time Proposal Optimization for Ride-Hailing Services Based on Individual Utilities](https://www.jstage.jst.go.jp/article/tjsai/38/1/38_38-1_C-M13/_article/-char/en)", Transactions of the Japanese Society for Artificial Intelligence, Vol.38(1), pp.CC-M13_1-12, 2023.
 
 # International conference papers (refereed)
-1. **Yuya Hikima**, Yasunori Akagi, Hideaki Kim, and Taichi Asami, "An Improved Approximation Algorithm for Wage Determination and Online Task Allocation in Crowd-sourcing", Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI 2023), 2023 (in press).
+1. **Yuya Hikima**, Yasunori Akagi, Hideaki Kim, and Taichi Asami, "An Improved Approximation Algorithm for Wage Determination and Online Task Allocation in Crowd-sourcing", Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI 2023), 2023 (in press). \[[code](https://github.com/Yuya-Hikima/AAAI2023-An-Improved-Approximation-Algorithm-for-Wage-Determination-and-Online-Task-Allocation)\]
 
 1. **Yuya Hikima**, Yasunori Akagi, Marumo Naoki, and Hideaki Kim, "[Online Matching with Controllable Rewards and Arrival Probabilities](https://www.ijcai.org/proceedings/2022/0254.pdf)", Proceedings of the 31st International Joint Conference on Artificial Intelligence (IJCAI 2022), pp.1825-1833, 2022. \[[code](https://github.com/Yuya-Hikima/IJCAI2022-Online-Matching-with-Controllable-Rewards-and-Arrival-Probabilities)\]
 
