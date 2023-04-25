@@ -12,7 +12,7 @@ My name is Yuya Hikima. I work for NTT Corporation and am a Ph.D. student at the
 My interests are optimization and its applications (pricing, transportation).
 
 ## News
-- February 2023: Our paper “A dual active set method for l1-regularized problem” has been accepted for publication in the Journal of Industrial and Management Optimization. It will be published soon.
+- February 2023: Our paper “A dual active set method for l1-regularized problem” has been published in the Journal of Industrial and Management Optimization.
 
 - January 2023: Our paper “Price and Time Proposal Optimization for Ride-Hailing Services Based on Individual Utilities” has been published in Transactions of the Japanese Society for Artificial Intelligence.
 
