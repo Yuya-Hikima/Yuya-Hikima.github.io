@@ -14,7 +14,7 @@ description              : &description "Worker at NTT Corporation, Ph.D. studen
 url                      : https://Yuya-Hikima.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Yuya-Hikima/Yuya-Hikima.github.io"
-teaser                   :  yuya-hikima.png # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  IMG_0381_2.JPG # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yuya Hikima"
-  avatar           : "P_20200215_151750_3.jpg"
+  avatar           : "IMG_0381_2.JPG"
   bio              : "Worker at NTT Corporation, Ph.D. student at The University of Tokyo"
   location         : "Japan"
   employer         :
