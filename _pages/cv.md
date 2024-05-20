@@ -23,6 +23,7 @@ Work experience
   
 Awards
 ======
+1. 最適化の理論とアルゴリズム：未来を担う若手研究者の集い 2024　優秀発表賞
 1. NTTサービスイノベーション総合研究所 研究開発奨励賞 (2022)
 2. NTTサービスエボリューション研究所 研究活動賞 (2021)
 3. 2020 IPSJ Yamashita SIG Research Award, Information Processing Society of Japan
