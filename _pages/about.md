@@ -12,6 +12,8 @@ My name is Yuya Hikima. I work for NTT Corporation and am a Ph.D. student at The
 My interests are optimization and its applications (pricing, transportation).
 
 ## News
+- November 2024: Our paper “Zeroth-Order Methods for Nonconvex Stochastic Problems with Decision-Dependent Distributions” has been accepted to AAAI 2025 (acceptance rate = 23.4%), a top artificial intelligence conference! 
+
 - July 2023: Our working paper “Stochastic Approach for Price Optimization Problems with Decision-dependent Uncertainty” has been released on the arXiv preprint server.
 
 - February 2023: Our paper “A dual active set method for l1-regularized problem” has been published in the Journal of Industrial and Management Optimization.
