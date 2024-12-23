@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 # Journal papers (refereed)
+1. **Yuya Hikima** and Akiko Takeda, "[Stochastic approach for price optimization problems with decision-dependent uncertainty](https://www.sciencedirect.com/science/article/pii/S0377221724009652?via%3Dihub)", European Journal of Operational Research, 2024. 
+
 1. **Yuya Hikima** and Nobuo Yamashita, "[A dual active set method for l1-regularized problem](https://www.aimsciences.org/article/doi/10.3934/jimo.2023022)", Journal of Industrial and Management Optimization, doi:10.3934/jimo.2023022, 2023. 
 
 1. **Yuya Hikima**, Yasunori Akagi, Masahiro Kohjima, Takeshi Kurashima, and Hiroyuki Toda, "[Price and Time Proposal Optimization for Ride-Hailing Services Based on Individual Utilities](https://www.jstage.jst.go.jp/article/tjsai/38/1/38_38-1_C-M13/_article/-char/en)", Transactions of the Japanese Society for Artificial Intelligence, Vol.38(1), pp.CC-M13_1-12, 2023.
