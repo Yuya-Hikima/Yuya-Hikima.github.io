@@ -15,11 +15,11 @@ author_profile: true
 
 # International conference papers (refereed)
 1. **Yuya Hikima**, Hiroshi Sawada, and Akinori Fujino, <BR>
-   Guided Zeroth-Order Methods for Nonconvex Stochastic Problems with Decision-Dependent Distributions, <BR>
+   [Guided Zeroth-Order Methods for Nonconvex Stochastic Problems with Decision-Dependent Distributions](https://openreview.net/pdf?id=cRmuEY7jhb), <BR>
    to appear in the Proceedings of the 42nd International Conference on Machine Learning (**ICML 2025**).  (acceptance rate: 26.9%)
 
 1. Hiroshi Sawada, Kazuo Aoyama, and **Yuya Hikima**, <BR>
-   Natural Perturbations for Black-box Training of Neural Networks by Zeroth-Order Optimization, <BR>
+   [Natural Perturbations for Black-box Training of Neural Networks by Zeroth-Order Optimization](https://openreview.net/pdf?id=ULAQ9GmJlo), <BR>
    to appear in the Proceedings of the 42nd International Conference on Machine Learning (**ICML 2025**).  (acceptance rate: 26.9%)
 
 1. **Yuya Hikima** and Akiko Takeda, <BR> [Zeroth-Order Methods for Nonconvex Stochastic Problems with Decision-Dependent Distributions](https://ojs.aaai.org/index.php/AAAI/article/view/33890), <BR> Proceedings of the 39th AAAI Conference on Artificial Intelligence (**AAAI 2025**). \[[code](https://github.com/Yuya-Hikima/AAAI25-Zeroth-Order-Methods-for-Nonconvex-Stochastic-Problems-with-Decision-Dependent-Distributions)\] (acceptance rate: 23.4%)
