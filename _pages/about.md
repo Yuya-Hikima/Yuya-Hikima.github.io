@@ -18,11 +18,11 @@ My interests are optimization and its applications (pricing, transportation).
 
 - December 2024: Our paper "Zeroth-Order Methods for Nonconvex Stochastic Problems with Decision-Dependent Distributions" has been accepted to AAAI 2025 (acceptance rate = 23.4%), a top artificial intelligence conference! 
 
-- July 2023: Our working paper "Stochastic Approach for Price Optimization Problems with Decision-dependent Uncertainty" has been released on the arXiv preprint server.
+- July 2023: Our working paper "Stochastic Approach for Price Optimization Problems with Decision-dependent Uncertainty" has been released on the arXiv preprint server!
 
-- February 2023: Our paper "A dual active set method for l1-regularized problem" has been published in the Journal of Industrial and Management Optimization.
+- February 2023: Our paper "A dual active set method for l1-regularized problem" has been published in the Journal of Industrial and Management Optimization!
 
-- January 2023: Our paper "Price and Time Proposal Optimization for Ride-Hailing Services Based on Individual Utilities" has been published in Transactions of the Japanese Society for Artificial Intelligence.
+- January 2023: Our paper "Price and Time Proposal Optimization for Ride-Hailing Services Based on Individual Utilities" has been published in Transactions of the Japanese Society for Artificial Intelligence!
 
 - November 2022: Our paper "An Improved Approximation Algorithm for Wage Determination and Online Task Allocation in Crowd-sourcing" has been accepted to AAAI 2023 (acceptance rate =19.6%), a top artificial intelligence conference! 
 
