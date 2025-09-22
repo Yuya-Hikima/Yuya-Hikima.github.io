@@ -31,3 +31,10 @@ Awards
 4. 日本オペレーションズ・リサーチ学会関西支部若手研究発表会2017年度優秀発表賞
 5. Student Presentation Award, The 61st Annual Conference of the Institute of Systems, Control and Information Engineers (SCI’17)
 6. 日本オペレーションズ・リサーチ学会関西支部若手研究発表会2016年度優秀発表賞
+
+Professional Activities
+======
+Reviews
+1. AAAI Conference on Artificial Intelligence
+2. IEICE Transactions on Information and Systems
+3. Journal of Computational and Applied Mathematics
