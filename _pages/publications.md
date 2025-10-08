@@ -7,7 +7,7 @@ author_profile: true
 
 # Journal papers (refereed)
 1. **Yuya Hikima** and Akiko Takeda, <BR>
- [Stochastic approach for price optimization problems with decision-dependent uncertainty](https://www.sciencedirect.com/science/article/pii/S0377221724009652?via%3Dihub), <BR> European Journal of Operational Research, 2024. 
+ [Stochastic approach for price optimization problems with decision-dependent uncertainty](https://www.sciencedirect.com/science/article/pii/S0377221724009652?via%3Dihub), <BR> European Journal of Operational Research, 2025.
 
 1. **Yuya Hikima** and Nobuo Yamashita, <BR> [A dual active set method for l1-regularized problem](https://www.aimsciences.org/article/doi/10.3934/jimo.2023022), <BR> Journal of Industrial and Management Optimization, doi:10.3934/jimo.2023022, 2023. 
 
