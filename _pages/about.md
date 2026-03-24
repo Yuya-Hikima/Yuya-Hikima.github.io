@@ -12,7 +12,9 @@ My name is Yuya Hikima. I work for NTT Corporation.
 My interests are optimization and its applications (pricing, transportation).
 
 ## News
-- May 2025: Our paper "Guided Zeroth-Order Methods for Stochastic Non-convex Problems with Decision-Dependent Distributions" and "Natural Perturbations for Black-box Training of Neural Networks by Zeroth-Order Optimization” have been accepted to ICML 2025 (acceptance rate = 26.9%)!
+- March 2026: I received my Ph.D. in Information Science and Technology from the University of Tokyo!
+- 
+- May 2025: Our two papers "Guided Zeroth-Order Methods for Stochastic Non-convex Problems with Decision-Dependent Distributions" and "Natural Perturbations for Black-box Training of Neural Networks by Zeroth-Order Optimization” have been accepted to ICML 2025 (acceptance rate = 26.9%)!
 
 - December 2024: Our paper "Stochastic Approach for Price Optimization Problems with Decision-dependent Uncertainty" has been accepted to European Journal of Operational Research!
 
