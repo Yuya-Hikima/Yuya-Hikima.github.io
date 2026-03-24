@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Economics, Kyoto University, 2016
 * M.S. in Informatics, Kyoto University, 2018
-* Ph.D. in Informatics, Tokyo University, 2022.
+* Ph.D. in Information Science and Technology, Tokyo University, 2026.
 
 Work experience
 ======
