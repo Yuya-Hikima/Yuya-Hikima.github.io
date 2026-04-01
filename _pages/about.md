@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-My name is Yuya Hikima. I work for NTT Corporation.
-My interests are optimization and its applications (pricing, transportation).
+My name is Yuya Hikima. I am an Assistant Professor at the Institute of Science Tokyo.
+My research interests are stochastic optimization and its applications.
 
 ## News
 - March 2026: I received my Ph.D. in Information Science and Technology from the University of Tokyo!
