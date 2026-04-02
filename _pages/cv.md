@@ -15,12 +15,12 @@ Education
 * M.S. in Informatics, Kyoto University, 2018
 * Ph.D. in Information Science and Technology, The University of Tokyo, 2026.
 
-Work experience
+Work Experience
 ======
-* 2018--now: Researcher
-  * NTT Corporation
-  * Research field: Optimization
-  
+* 2018–2026: Researcher, NTT Corporation
+
+* 2026–present: Assistant Professor, Institute of Science Tokyo
+
 Awards
 ======
 1. 最適化の理論とアルゴリズム：未来を担う若手研究者の集い2025 優秀発表賞
