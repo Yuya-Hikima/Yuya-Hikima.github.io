@@ -35,6 +35,7 @@ Awards
 Professional Activities
 ======
 Reviews
-1. AAAI Conference on Artificial Intelligence
-2. IEICE Transactions on Information and Systems
-3. Journal of Computational and Applied Mathematics
+1. European Journal of Operational Research
+2. AAAI Conference on Artificial Intelligence
+3. IEICE Transactions on Information and Systems
+4. Journal of Computational and Applied Mathematics
