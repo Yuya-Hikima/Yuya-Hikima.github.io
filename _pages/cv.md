@@ -24,6 +24,7 @@ redirect_from:
 # Teaching Experience
 
 * 2026: Data Analysis for Industrial Engineering and Economics (経営・経済のためのデータ分析), Institute of Science Tokyo
+* 2026: Reading in Industrial Engineering and Economics S (経営工学・経済学輪講S), Institute of Science Tokyo
 
 # Awards
 
